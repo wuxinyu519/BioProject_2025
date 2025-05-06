@@ -35,7 +35,7 @@ We compare the following models:
 
 ## 🔗 Dataset
 Dataset are available at:  
-👉 [Google Drive](([https://drive.google.com/drive/u/0/folders/1F-uUIM2a99NvgmziA_ccYQL034U7-Y9Q])
+👉 [Google Drive](https://drive.google.com/drive/u/0/folders/1F-uUIM2a99NvgmziA_ccYQL034U7-Y9Q)
 
 ## 🚀 How to Run
 1. Download .ipynb and then open it on Notebook
