@@ -2,8 +2,8 @@
 This is the final project for the Bioinformatics course.
 
 ## 📘 Introduction
-This project focuses on **protein sequence classification** using various machine learning and deep learning models. All code is implemented and executed in **👉 [Google Colab](https://colab.research.google.com/drive/1LfYuIfqacJCP3vSzIJqMgwsapfnAisyM#scrollTo=-AB8avkNk3ua)
-**, leveraging GPU acceleration when available.
+This project focuses on **protein sequence classification** using various machine learning and deep learning models. All code is implemented and executed in 👉 [**Google Colab**](https://colab.research.google.com/drive/1LfYuIfqacJCP3vSzIJqMgwsapfnAisyM#scrollTo=-AB8avkNk3ua)
+, leveraging GPU acceleration when available.
 
 We build a comparative framework to evaluate different classification models on a balanced UniProt dataset across five protein categories.
 
